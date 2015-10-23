@@ -1,0 +1,13 @@
+There are 4 classes. 
+
+Interface.java - This is the graphical user interface for the robot controls. 
+
+Hardware.java - This is the robot hardware design on the panel2 of Interface. 
+
+TechServ.java - This is the technical services layer of the robot. It will contain all the action Listeners. 
+
+ImgFrame.java - This is the camera layer of the robot. It will be invoked when the camera of the robot is turned on. 
+
+Everything is functioning as per the requirements. 
+
+Thank you. 
